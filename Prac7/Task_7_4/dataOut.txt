@@ -1,0 +1,48 @@
+Shelly Malik
+8 12 2000
+Lincoln Drive
+Kingswood
+NSW
+2131
+04-2555-1212
+Family
+Donald Duck
+6 10 1980
+Disney Street
+Orlando
+VIC
+3234
+06-2873-8920
+Friend
+Chelsea Tomak
+8 12 1999
+Kennedy Blvd
+Omaha
+QSL
+4172
+04-2777-8888
+Friend
+Goof Goofy
+2 6 1965
+Disney Street
+Angles
+NT
+9340
+02-5782-9000
+Family
+Brave Balto
+2 6 1975
+Disney Road
+Orlando
+WA
+5672
+04-5782-5555
+Business
+Bash Bashfull
+2 8 1965
+Long Road
+Redfen
+NSW
+2101
+02-2782-8000
+Friend
